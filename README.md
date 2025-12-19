@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Ritik 👋
 
-<!--
-**ritiksingh-121/ritiksingh-121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer & Problem Solver  
+💻 React | Node.js | MongoDB | Tailwind CSS  
+📍 India  
 
-Here are some ideas to get you started:
+- Building clean, scalable web applications  
+- Strong in frontend, backend & logic  
+- Open to internships, freelance & full-time roles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me:
+- GitHub: https://github.com/ritiksingh-121
+- LinkedIn: https://linkedin.com/in/your-link
